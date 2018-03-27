@@ -7,8 +7,8 @@ setup(
   description = 'A simple Django app to basic CRUD.',
   author = 'Ricardo Pizano',
   author_email = 'rikymon2@hotmail.com',
-  url = 'https://github.com/RicardoPizano/basic-crud', # use the URL to the github repo
-  download_url = 'https://github.com/RicardoPizano/basic-crud/tree/master/dist/django-basic-crud-0.2.tar.gz',
+  url = 'https://github.com/RicardoPizano/django_basic_crud', # use the URL to the github repo
+  download_url = 'https://github.com/RicardoPizano/django_basic_crud/tree/master/dist/django_basic_crud-0.1.tar.gz',
   keywords = [],
   classifiers = [],
 )
